@@ -1,0 +1,54 @@
+
+  [
+    {
+        "namaSurah":"Surah Ya-Sin",
+        "aboutSurah":"Surah Yaasin adalah surah ke-36 dalam Al Quran. Surah ini terdiri atas 83 ayat, termasuk golongan surah-surah Makkiyyah serta diturunkan selepas surah Aj-jin",
+        "namaGambar":"alfatihah.jpeg",
+        "senaraiAyat":
+        [
+            {
+                "noAyat":"12",
+                "ayatArab":" بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِيمِ",
+                "maknaAyat":"Dengan nama Allah yang maha pengasih lagi maha penyayang",
+                "namaMp3":"alfatihah.mp3"
+
+            },
+            {
+                "noAyat":"54",
+                "ayatArab":"اِنَّا نَحْنُ نُحْيِ الْمَوْتٰى وَنَكْتُبُ مَا قَدَّمُوْا وَاٰثَارَهُمْۗ وَكُلَّ شَيْءٍ اَحْصَيْنٰهُ فِيْٓ اِمَامٍ مُّبِيْنٍ",
+                "maknaAyat":"Sungguh, Kamilah yang menghidupkan orang-orang yang mati, dan Kamilah yang mencatat apa yang telah mereka kerjakan dan bekas-bekas yang mereka (tinggalkan). Dan segala sesuatu Kami kumpulkan dalam Kitab yang jelas (Lauh Mahfuzh).",
+                "namaMp3":"alfatihah.mp3"
+
+            }
+            
+        ]
+    },
+    
+    {
+        "namaSurah":"Surah An-Nas",
+        "aboutSurah":"Surah ini adalah doa 6 ayat ringkas, meminta kepada Allah untuk perlindungan dari Syaitan.",
+        "namaGambar":"an-nas.jpg",
+        "senaraiAyat":
+        [
+            {
+                "noAyat":"59",
+                "ayatArab":" بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِيمِ",
+                "maknaAyat":"",
+                "namaMp3":"alfatihah.mp3"
+
+            },
+            {
+                "noAyat":"98",
+                "ayatArab":" بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِيمِ",
+                "maknaAyat":"",
+                "namaMp3":"alfatihah.mp3"
+
+            }
+            
+        ]
+    }
+
+    
+
+
+  ]
